@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\prak2\prak2\bin\Debug\prak2.exe.config
+C:\Users\andre\source\repos\prak2\prak2\bin\Debug\prak2.exe
+C:\Users\andre\source\repos\prak2\prak2\bin\Debug\prak2.pdb
+C:\Users\andre\source\repos\prak2\prak2\obj\Debug\prak2.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\prak2\prak2\obj\Debug\prak2.Form1.resources
+C:\Users\andre\source\repos\prak2\prak2\obj\Debug\prak2.Properties.Resources.resources
+C:\Users\andre\source\repos\prak2\prak2\obj\Debug\prak2.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\prak2\prak2\obj\Debug\prak2.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\prak2\prak2\obj\Debug\prak2.exe
+C:\Users\andre\source\repos\prak2\prak2\obj\Debug\prak2.pdb
